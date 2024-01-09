@@ -14,4 +14,8 @@ public class Main {
 
         String word = "Katsu";
     }
+    public boolean isWordUnique(String word){
+
+        return false;
+    }
 }
